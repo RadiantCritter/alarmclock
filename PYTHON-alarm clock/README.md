@@ -1,4 +1,4 @@
-by x.com/@radiantcritter
+by www.x.com/@radiantcritter
 
 an alarm clock 
 build in python
