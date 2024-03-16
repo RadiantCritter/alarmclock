@@ -1,3 +1,5 @@
+by @radiantcritter
+
 an alarm clock 
 build in python
 
